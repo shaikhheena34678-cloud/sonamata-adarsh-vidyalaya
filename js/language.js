@@ -71,14 +71,15 @@ const translations = {
         our_inspiration: "Our Inspiration",
 
         founder: "Founder",
+        founder_f1:"Founder",
         secretary: "Secretary",
         president: "President",
 
-        founder_sonamata: "Shri. Sonamata",
+        founder_sonamata: "Shri. Sonamata Devi",
         founder_nana_atre: "Shri. Nana Shree Atre",
         founder_gajanan: "Shri. Gajanan Maharaj",
         founder_kirtilaxmi: "Shri. Kirtilaxmi Atre",
-        founder_abhijeet: "Shri. Abhijeet",
+        founder_abhijeet: "Shri. Abhijeet Atre",
 
         principal_name: "Mr. Patel Jilani Hasan",
 
@@ -872,6 +873,9 @@ const translations = {
         founder:
             "संस्थापक",
 
+        founder_f1:
+            "संस्थापक",
+
         secretary:
             "सचिव",
 
@@ -879,7 +883,7 @@ const translations = {
             "अध्यक्ष",
 
         founder_sonamata:
-            "श्री. सोनामाता",
+            "श्री. सोनामाता देवी.",
 
         founder_nana_atre:
             "श्री. नाना श्री अत्रे",
@@ -891,7 +895,7 @@ const translations = {
             "श्री. कीर्तिलक्ष्मी अत्रे",
 
         founder_abhijeet:
-            "श्री. अभिजीत",
+            "श्री. अभिजीत अत्रे",
 
         principal_name:
             "श्री. पटेल जिलानी हसन",
